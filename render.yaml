@@ -35,7 +35,7 @@ services:
       - key: N8N_LOG_LEVEL
         value: info
       - key: GENERIC_TIMEZONE
-        value: Adia/Tokyo # change this to your timezone
+        value: Asia/Tokyo # change this to your timezone
       - key: TZ
         value: Asia/Tokyo # change this to your timezone
       - key: N8N_DEFAULT_LOCALE
